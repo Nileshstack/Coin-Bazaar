@@ -1,0 +1,35 @@
+.more button{
+    text-align: center;
+    align-items: center;
+    border: none;
+    margin: auto;
+    background: #ff960b;
+    color: aliceblue;
+    font-size: 16px;
+    padding: 10px 30px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.wrap{
+    display: flex;
+    gap:90%;
+    margin: auto;
+}
+.less button{
+    text-align: center;
+    align-items: center;
+    border: none;
+    margin: auto;
+    background: #ff960b;
+    color: aliceblue;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.block button{
+    display: none;
+}
+.head h1 span {
+     color: #ff960b;
+} 

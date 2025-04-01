@@ -1,0 +1,44 @@
+.heade h1{
+    max-width: 600px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap:30px;
+    color: #f2a541;
+}
+.heade h5{
+    width: 83%;
+    color: #e3e3e3;
+    line-height: 1.5;
+    margin: auto;
+}
+.heade span{
+    color: #ff960b;
+    font-size: 600;
+    font-weight: 700;
+}
+.boot{
+    max-width: 90%;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color:blue;
+}
+.accordion-body {
+    color:white;
+    background: linear-gradient(#0b004e, #002834); 
+  }
+  
+  .accordion-header {
+    color:white;
+    
+  }
+  
+  .accordion-button {
+    color: white;
+    background: linear-gradient(#0b004e, #1d152f, #002834);
+  }

@@ -1,0 +1,18 @@
+.link  :hover{
+   color: #ff960b;
+   transform: scale(1.02);
+}
+.link {
+   font-size:medium; 
+}
+#image img{
+   height: 250px;
+}
+#colorin span{
+   color: #ff960b;
+}
+.cen{
+   align-items: center;
+   display: flex;
+   text-align: center;
+}

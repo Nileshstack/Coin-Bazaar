@@ -1,0 +1,22 @@
+.footer{
+    text-align: center;
+    margin: auto;
+    max-width: 80%;
+    border-top: 1px solid #989898;
+    padding: 15px 0px;
+    font-size: 20px;
+    
+}
+.footer span{
+    color: #ff960b;
+}
+.footer h5{
+    font-weight: bolder;
+    margin-top: 4px;
+}
+.patner{
+     margin-left: 10%;
+}
+.patner u:hover{
+   color: #ff960b;
+}
